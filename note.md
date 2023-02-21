@@ -54,3 +54,8 @@ in main.js it is exports two files.
 main.js is a configration files itself
 
 preview.js is a configration files itself when we write the code its story
+
+
+if we want to run storybook then simply type this on vs code:-
+npm run  storybook
+
